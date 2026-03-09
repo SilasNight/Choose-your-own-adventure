@@ -1,7 +1,6 @@
-# Wallpaper Downloader
-This is a small application that is used to download the daily "image of the day" from NASA. <br>
-You can use my api. But if you are going to be using this with the automatic download <br>
-I am going to ask that you make your own account on the NASA website and use your api instead<br>
+# Choose Your Own Adventure Game
+This is a small small game that I made just to check if I could. It <br>
+is a multiple choice adventure game.
 ___
 ### Installation 
 You need to decide where you want this code to be downloaded to<br>
@@ -16,23 +15,19 @@ Now navigate to you the folder you want to use with<br>
 cd (your filepath)
 
 Get the project<br>
-git clone https://github.com/SilasNight/wallpaper-downloader
+git clone https://github.com/SilasNight/Choose-your-own-adventure
 
 Create a virtual enviroment for the project<br>
 python3 -m venv .venv
 
 Navigate to the project<br>
-cd wallpaper-downloader
+cd Choose-your-own-adventure
 
 Install the requirements<br>
 pip install -r requirements.txt
 
 Run the program<br>
 py main.py
-___
-
-### Making independant executable
-I would love to give advice on this but I haven't found a way to make it work without the temp file issue
 ___
 
 ### Contributor
